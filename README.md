@@ -8,7 +8,7 @@ Classification of Fracture Stages in Oil &amp; Gas drilling operations
 4. Gamma ray
 5. Minimum horizontal stress
 
-### If a drilling operation is at stage 1, more chemicals are required to treat the stage.
+### If a drilling operation is at stage 1, more chemicals are required to treat the stage, through out this project I have accomplished the following
 
 * Analyzed and feature engineered the Dataset to be fed to different classification Models
 * Built and Tuned SVM, Random Forest, Extra Trees, Gradient Boosting and XGBoost Machine Learning models to classify Fracture Stages in oil & gas drilling operations
