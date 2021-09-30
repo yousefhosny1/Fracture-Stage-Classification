@@ -1,6 +1,6 @@
 # Classification of Fracture Stages in Oil &amp; Gas drilling operations
 
-### Predicting and flagging hard to treat fracture stages prior to the fracture start date will eliminate surprises during the fracturing, the features that identifies a fracture being in stage 0 or stage 1 are as following:
+### Predicting and flagging hard to treat fracture stages prior to the fracture start date will eliminate surprises during the drilling process, the features that identifies a fracture being in stage 0 or stage 1 are as following:
 1. Measured depth in feet
 2. Resistivity in ohm-m
 3. Youngs Modulus divided by Poissons ratio
